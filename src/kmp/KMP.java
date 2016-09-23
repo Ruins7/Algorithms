@@ -1,3 +1,4 @@
+package kmp;
 
 /**
  * Java实现KMP算法
