@@ -19,7 +19,7 @@ public class AddDigits {
 
 	/**
 	 * @Title: main
-	 * @Description: TODO
+	 * @Description: LintCode 569
 	 * @param args
 	 * @return: void
 	 */

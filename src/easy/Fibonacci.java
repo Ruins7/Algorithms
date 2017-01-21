@@ -19,7 +19,8 @@ public class Fibonacci {
 
 	/**
 	 * @Title: main
-	 * @Description: 可以用递归，本题方法：设置两个int来存储每一次的计算(k,m),循环使k,m相加
+	 * @Description: LintCode 366
+	 * 				可以用递归，本题方法：设置两个int来存储每一次的计算(k,m),循环使k,m相加
 	 * 				遇到奇数位就返回k,遇到偶数位就返回m。
 	 * 				难点在于寻找循环的次数，首先n-4：因为前四个数都以求出。
 	 * 				然后：奇数时：(n-4+1)/2
