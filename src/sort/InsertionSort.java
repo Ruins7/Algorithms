@@ -13,7 +13,8 @@ import java.util.ArrayList;
 
 /**
  * @ClassName: InsertionSort
- * @Descriptio:TODO
+ * @Descriptio: LintCode 463 
+ * 				插入排序
  * @author: ruins7
  * @date: Sep 22, 2016 6:43:03 PM
  */
