@@ -30,7 +30,7 @@ public class AddDigits {
 			System.out.println("num should be greater than 0");
 		}else{
 			num = addNum(num);
-			while((num+"").length() > 1){
+			while((num+"").length() > 1){  
 				num = addNum(num);
 			}
 			System.out.println("done");
