@@ -9,6 +9,8 @@
  */
 package easy;
 
+import Tools.ListNode;
+
 /**
  * @ClassName: LinkedList
  * @Description: TODO
@@ -43,9 +45,4 @@ public class LinkedLista {
 
 	
 }
-class ListNode {
-	
-	 int val;
-	 ListNode next;
-	 ListNode(int x) { val = x; }
-}
+
