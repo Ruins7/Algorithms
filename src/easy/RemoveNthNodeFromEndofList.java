@@ -50,10 +50,10 @@ public class RemoveNthNodeFromEndofList {
 		int delindex = length - n;
 
 		ListNode node2 = head;
-		if (delindex <= 0) {//要删除的是第一个元素
+		if (delindex <= 0) {// 要删除的是第一个元素
 			if (node2.next != null) {
 				node2 = node2.next;
-				
+
 			} else {
 				node2 = null;
 			}
@@ -61,12 +61,12 @@ public class RemoveNthNodeFromEndofList {
 			System.out.println("return here");
 			// return head;
 		}
-		
+
 		int i = 0;
 		while (node2 != null) {
 			if (i == delindex - 1) {
 				if (node2.next.next != null) {
-					node2.next = node2.next.next;//原数据head在此时修改
+					node2.next = node2.next.next;// 原数据head在此时修改
 				} else {
 					node2.next = null;
 				}
