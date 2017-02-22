@@ -53,7 +53,6 @@ public class RemoveNthNodeFromEndofList {
 		if (delindex <= 0) {// 要删除的是第一个元素
 			if (node2.next != null) {
 				node2 = node2.next;
-
 			} else {
 				node2 = null;
 			}
