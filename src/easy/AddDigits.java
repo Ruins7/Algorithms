@@ -27,20 +27,20 @@ public class AddDigits {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	    ArrayList<Integer> a = new ArrayList<Integer>();
-	    a.add(1);
-	    a.add(2);
-	    a.add(3);
-	    a.add(0);
-	    int max = 0;
-	    int i = 0;
-	    while(i < a.size()){
-	    	    if(a.get(i) > max){
-	    	    		max = a.get(i);
-	    	    }
-	    	    i = i + 1;
-	    }
-	    System.out.println(max);
+//	    ArrayList<Integer> a = new ArrayList<Integer>();
+//	    a.add(1);
+//	    a.add(1);
+//	    a.add(2);
+//	    a.add(2);
+//	    int max = 0;
+//	    int i = 0;
+//	    while(i < a.size()){
+//	    	    if(a.get(i) > max){
+//	    	    		max = a.get(i);
+//	    	    }
+//	    	    i = i + 1;
+//	    }
+//	    System.out.println(max);
 		
 		
 		
