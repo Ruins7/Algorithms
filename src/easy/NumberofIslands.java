@@ -22,7 +22,7 @@ public class NumberofIslands {
 
 	/**
 	 * @Title: main
-	 * @Description: LintCode 433
+	 * @Description: LintCode 433 remain to be solved
 	 * @param args
 	 * @return: void
 	 */
