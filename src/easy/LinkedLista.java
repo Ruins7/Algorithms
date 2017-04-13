@@ -26,7 +26,6 @@ public class LinkedLista {
 	 * @return: void
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		ListNode head = null;
 		int val = 3;
 		
