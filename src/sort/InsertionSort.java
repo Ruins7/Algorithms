@@ -38,12 +38,10 @@ public class InsertionSort {
 	
 	public static void main(String[] args){
 		ArrayList<Integer> a = new ArrayList<Integer>();
-		a.add(5);
-		a.add(2);
-		a.add(4);
-		a.add(6);
-		a.add(1);
-		a.add(3);
+		a.add(1111);
+		a.add(6666);
+		a.add(3333);
+		a.add(5555);
 		a = insertionSort(a);
 		for (int i = 0; i < a.size(); i++) {
 			System.out.println(a.get(i));
